@@ -1,16 +1,18 @@
-# responsive_design
+# RESPONSIVE DESIGN IN FLUTTER ⚖️
+Its a simple example of how your app be flexible and responvise as same as youtube clone of showing videos.🧑🏽‍💻
+# Reach/Follow me on 📫
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-fawzy-936b661b8/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/linkedin.png" alt="linkedIn" width="50" height="50"/> </a>&nbsp&nbsp
+  <a href="mailto:fwzymohamed90@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/google-logo.png" alt="googleEmail" width="50" height="50"/> </a>&nbsp&nbsp
+  <a href="https://www.facebook.com/mohamed.fwzy.14" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/facebook-262-721949.png" alt="facebook" width="50" height="50"/> </a>
+</p>
 
-A new Flutter project.
+# How this project can be of help 🗺
+* Getting a responsive mobile and desktop app
+* Flexible UI
 
-## Getting Started
+# SnapShots 📸
+<img width="1328" alt="Screen Shot 2023-05-07 at 1 38 59 AM" src="https://user-images.githubusercontent.com/111665714/236649442-94bc58e7-e0c9-4202-ba64-f225c6d09437.png">
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/111665714/236649445-6b254ebe-35ec-48ff-88ff-48d1747bb775.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
