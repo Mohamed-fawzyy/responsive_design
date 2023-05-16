@@ -1,5 +1,5 @@
 # RESPONSIVE DESIGN IN FLUTTER ⚖️
-Its a simple example of how your app be flexible and responvise as same as youtube clone of showing videos.🧑🏽‍💻
+It's a simple example of how your app is flexible and responsive as same as the youtube clone of showing videos.🧑🏽‍💻
 # Reach/Follow me on 📫
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-fawzy-936b661b8/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/linkedin.png" alt="linkedIn" width="50" height="50"/> </a>&nbsp&nbsp
